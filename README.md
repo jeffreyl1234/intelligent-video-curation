@@ -1,6 +1,6 @@
 # intelligent-video-curation
 Flawless + DataRes Project Fall
-
+.
 # Development Guide
 
 ## Structure
